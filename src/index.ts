@@ -1,3 +1,3 @@
-import Swiper from './swiper'
+import Swiper from './Swiper'
 
 export { Swiper }
